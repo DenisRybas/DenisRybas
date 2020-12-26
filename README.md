@@ -1,4 +1,3 @@
-
 <h1> 
   Hi there!👋
   <img  height="40px" alt="GIF" src="https://media.giphy.com/media/j5hWF2V3RlNGItTkGc/giphy.gif" /> 
@@ -29,7 +28,8 @@ Technologies & Tools:pencil2:
 <img alt="IntelliJ IDEA" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/512px-IntelliJ_IDEA_Logo.svg.png" />
 </h1>
 
-<h1>My github stats📈
+<h1>My github stats📈 
+  <img src="https://visitor-badge.glitch.me/badge?page_id=DenisRybas.visitor-badge&color=5194f0" />
 <br>
 <img width="500px" src="https://github-readme-stats.vercel.app/api?username=DenisRybas&show_icons=true&theme=tokyonight" />
 <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenisRybas&theme=tokyonight" />
