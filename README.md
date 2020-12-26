@@ -1,5 +1,8 @@
-<h1> Hi there 👋</h1>
+<h1> Hi there 
+  <img  height="50px" alt="GIF" src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" />
+</h1>
 <img align="right" height="270px" alt="GIF" src="9bXa.gif" />
+
 <a>
 My name is Denis, I am a second year student at Voronezh State University, Russia.
 <br>
