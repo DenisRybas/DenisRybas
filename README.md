@@ -1,6 +1,8 @@
-<h1> Hi there 
-  <img  height="50px" alt="GIF" src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" />
-</h1>
+
+<h1> <img  height="40px" alt="GIF" src="https://media.giphy.com/media/j5hWF2V3RlNGItTkGc/giphy.gif" /> 
+  Hi there
+</h1> 
+
 <img align="right" height="270px" alt="GIF" src="9bXa.gif" />
 
 <a>
