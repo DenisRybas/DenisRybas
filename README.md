@@ -6,7 +6,7 @@
 <img align="right" height="270px" alt="GIF" src="9bXa.gif" />
 
 <a>
-My name is Denis, I am a second year student at Voronezh State University, Russia.
+My name is Denis, I am a third year student at Voronezh State University, Russia.
 <br>
 Interested in backend development and actively developing in this area.
 </a>
