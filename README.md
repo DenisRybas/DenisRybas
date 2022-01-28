@@ -2,8 +2,6 @@
   Hi there!👋
 </h1> 
 
-<img align="right" height="270px" alt="GIF" src="9bXa.gif" />
-
 <a>
 My name is Denis, I am a third year student at Voronezh State University, Russia.
 <br>
