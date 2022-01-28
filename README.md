@@ -1,6 +1,5 @@
 <h1> 
   Hi there!👋
-  <img  height="40px" alt="GIF" src="https://media.giphy.com/media/j5hWF2V3RlNGItTkGc/giphy.gif" /> 
 </h1> 
 
 <img align="right" height="270px" alt="GIF" src="9bXa.gif" />
