@@ -11,7 +11,7 @@ Interested in backend development and actively developing in this area.
 <h1>
 Connect with me🗿
   
-[<img alt="VK" width="40px" src="https://img.icons8.com/color/452/vk-circled.png" />][vk]
+[<img alt="VK" width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][vk]
 </h1>
 
 <h1>My github stats📈 
@@ -20,4 +20,4 @@ Connect with me🗿
 <img width="500px" src="https://github-readme-stats.vercel.app/api?username=DenisRybas&show_icons=true&theme=tokyonight" />
 </h1>
 
-[vk]: https://vk.com/rybas_denis
+[vk]: https://www.linkedin.com/in/denis-rybas-a0ba01212/
