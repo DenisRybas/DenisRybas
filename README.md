@@ -3,9 +3,11 @@
 </h1> 
 
 <a>
-My name is Denis, I am a third year student at Voronezh State University, Russia.
+My name is Denis, welcome to my GitHub profile!
 <br>
 Interested in backend development and actively developing in this area.
+  
+Graduated at Voronezh State University.
 </a>
 
 <h1>
