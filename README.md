@@ -18,7 +18,6 @@ Connect with me🗿
   <img src="https://visitor-badge.glitch.me/badge?page_id=DenisRybas.visitor-badge&color=5194f0" />
 <br>
 <img width="500px" src="https://github-readme-stats.vercel.app/api?username=DenisRybas&show_icons=true&theme=tokyonight" />
-<img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenisRybas&theme=tokyonight" />
 </h1>
 
 [vk]: https://vk.com/rybas_denis
