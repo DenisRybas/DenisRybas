@@ -6,8 +6,6 @@
 My name is Denis, welcome to my GitHub profile!
 <br>
 Interested in backend development and actively developing in this area.
-  
-Graduated at Voronezh State University.
 </a>
 
 <h1>
